@@ -2,6 +2,7 @@ class RegexDriver
 {
     public static void main(String [] args)
     {
+        /*
         RegEx check = new RegEx("rchang615@gmail.com", "Rebecca", "Chang", "16");
 
         // EMAIL INCORRECT
@@ -72,7 +73,7 @@ class RegexDriver
         System.out.println(check.getAge());
         System.out.println();
 
-        RegEx allCorrect = new RegEx("rchang615@gmail.com","Rebecca", "Chang", "16");
-
+        // RegEx allCorrect = new RegEx("rchang615@gmail.com","Rebecca", "Chang", "16");
+        */
     }
 }
